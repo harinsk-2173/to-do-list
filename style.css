@@ -1,0 +1,21 @@
+body{
+    background-color:bisque;
+    margin: 30px;
+    font-family: 'Poppins',sans-serif;
+}
+#container h2{
+    display: flex; 
+}
+input{
+    border-radius: 5px;
+    background-color:antiquewhite
+}
+button{
+    border-radius: 5px;
+    background-color:cornflowerblue;
+    font-weight: 400;
+
+}
+#todolist{
+    margin:10px, 0px;
+}
